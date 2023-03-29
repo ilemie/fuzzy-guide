@@ -9,4 +9,4 @@
 
 ![alt text](fuzzy%20guide/fuzzy_feathered_artificial_baby_chick_medium.jpg "my chicken")
 
-![alt text](fuzzy%guide/hullo.jpg "hihihihi")
+![alt text](fuzzy%20guide/hullo.jpg "hihihihi")
